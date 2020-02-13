@@ -25,5 +25,8 @@ export const neutralList = [
   'we',
   'I',
   'ze',
-  'hir'
+  'hir',
+  'it',
+  'its',
+  'itself'
 ]

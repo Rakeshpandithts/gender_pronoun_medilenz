@@ -71,7 +71,7 @@ const Header = () => {
         width: 35px;
       }
     `}</style>
-    <h1 id="logo"><a href="/">Gender Pronoun Highlighter</a></h1>
+    <h1 id="logo"><a href="/">Pronoun Highlighter</a></h1>
       <nav>
         <ul>
         </ul>
