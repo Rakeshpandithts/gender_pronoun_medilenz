@@ -2,13 +2,15 @@ export const femaleList = [
   'she',
   'her',
   'hers',
-  'herself'
+  'herself',
+  'Ms.'
 ]
 export const maleList = [
   'he',
   'him',
   'his',
-  'himself'
+  'himself',
+  'Mr.'
 ]
 export const neutralList = [
   'they',
